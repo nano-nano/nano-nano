@@ -1,5 +1,5 @@
-<h1 align="center">Banno Takuya a.k.a. NanoNano</h1>
-<h3 align="center">👋 A just software engineer. / ただのしがないソフトウェアエンジニア</h3>
+<h1 align="center">👋 Banno Takuya a.k.a. NanoNano 👋</h1>
+<h3 align="center">A just software engineer. / ただのしがないソフトウェアエンジニア</h3>
 
 <hr />
 
